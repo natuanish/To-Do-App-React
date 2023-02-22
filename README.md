@@ -6,7 +6,7 @@ To run the application on your local machine, follow these steps:
 
 Clone this repository using the following command:
 
-git clone https://github.com/<username>/<repository-name>.git
+git clone https://github.com/<natuanish>/<To-Do-App_react>.git
 Navigate to the project directory using the following command:
 
 cd <repository-name>
